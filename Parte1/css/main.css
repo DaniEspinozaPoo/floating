@@ -1,0 +1,28 @@
+.contenedor {
+    background-color:#FFFFFF;
+    border:1px solid black;
+    width: 50%;
+
+    }
+
+
+
+.caja {
+	height: 100px;
+	width: 25%;
+	display: block;
+	}
+
+.amarilla {
+	background-color:#FFFF0A;
+    }	
+
+.azul{
+    background-color:#2E6CAC;
+    
+    }
+
+.roja{
+    background-color:#E60041;
+
+     }    
